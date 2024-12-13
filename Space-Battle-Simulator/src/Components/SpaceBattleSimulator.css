@@ -1,0 +1,10 @@
+.space-battle-simulator {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#space-battle-simulator-title {
+    color: whitesmoke;
+    text-align: center;
+}

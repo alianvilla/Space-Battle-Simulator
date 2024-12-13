@@ -1,0 +1,11 @@
+
+.Player-health {
+    margin-top: 30vh;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    color: white;
+    font-size: larger;
+}
